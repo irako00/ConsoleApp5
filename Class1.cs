@@ -12,5 +12,9 @@ namespace ConsoleApp5
         {
            
         }
+        static void FullName12()
+        {
+
+        }
     }
 }
