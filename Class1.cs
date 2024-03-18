@@ -8,5 +8,9 @@ namespace ConsoleApp5
 {
     internal class Class1
     {
+        static void FullName()
+        {
+           
+        }
     }
 }
